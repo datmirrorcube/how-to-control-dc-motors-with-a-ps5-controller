@@ -1,3 +1,7 @@
+Note that this code is made for 2 motors that are controlled with R1 and L1
+
+
+
 
 import RPi.GPIO as GPIO          
 from time import sleep
